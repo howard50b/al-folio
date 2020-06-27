@@ -2,22 +2,17 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: First Year PhD Student, <a href="https://www.cs.princeton.edu/">Comupter Science</a>, <a href="https://nlp.cs.princeton.edu/">Princeton NLP</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
 
 news: true
 social: true
 ---
+I am a first year PhD student studying Computer Science at Princeton University. Prior to Princeton, I was an ML/NLP researcher at <span style="color:#5DADE2">[ASAPP](https://www.asapp.com/platform/applied-research/)</span> and research assistant at Cornell NYC Tech. I recieved a B.S. from National Taiwan University and M.Eng. from Cornell University.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on machine learning its applications in natural language processing. I aim to design systems to understand natural language in an interpretable and robust way. Specifically, I focus on the intersection of areas such as knowledge representation, language acquisition through interaction, and reasoning in grounded environment. To achieve this, I'm interested in drawing upon techniques and ideas from relevant fields such as reinforcement learning, causal inference, and methods insipred by psychology.

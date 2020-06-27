@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-07-06 18:00:00-0000
 inline: true
 ---
 
-A simple inline announcement.
+ACL virtual QA session for our work [Interactive Classification by Asking Informative Questions](https://arxiv.org/abs/1911.03598).
