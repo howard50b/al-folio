@@ -71,22 +71,25 @@
       [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
     {% endif %}
     {% if entry.html %}
-      [<a href="{{ entry.html }}" target="_blank">HTML</a>]
+      [<a href="{{ entry.html }}" target="_blank">html</a>]
     {% endif %}
     {% if entry.pdf %}
-      [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a>]
+      [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">pdf</a>]
     {% endif %}
     {% if entry.supp %}
-      [<a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" target="_blank">Supp</a>]
+      [<a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" target="_blank">supp</a>]
     {% endif %}
     {% if entry.poster %}
-      [<a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" target="_blank">Poster</a>]
+      [<a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" target="_blank">poster</a>]
     {% endif %}
     {% if entry.slides %}
-      [<a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" target="_blank">Slides</a>]
+      [<a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" target="_blank">slides</a>]
     {% endif %}
     {% if entry.code %}
-      [<a href="{{ entry.code }}" target="_blank">Code</a>]
+      [<a href="{{ entry.code }}" target="_blank">code</a>]
+    {% endif %}
+    {% if entry.data %}
+      [<a href="{{ entry.data }}" target="_blank">data</a>]
     {% endif %}
     </span>
 
