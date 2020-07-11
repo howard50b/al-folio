@@ -3,6 +3,7 @@ layout: post
 title: Causality in NLP
 date: 2020-06-27 11:12:00-0400
 description: Explore the notion of causality in NLP.
+permalink: /causal-nlp-1/
 ---
 
 This post aims to connect some recent progress in NLP and the long studied field of causality research.
