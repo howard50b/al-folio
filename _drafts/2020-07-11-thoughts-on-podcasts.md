@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thoughts on Podcasts
+date: 2020-07-11 11:12:00-0400
+description: Not really fleshed out thoughts on recent trends of podcast's growing popularity.
+permalink: /thoughts-on-podcasts/
+---
+
+As a podcast addict myself since 2014, I have been noticing this growing popularity of homemade/DIY podcasts, which, in the last two years, have become mainstream in the US, and similarly so in Taiwan from last year on.
+The landscape has indeed changed in that the democratization of tools and technologies has made such trend possible, analogous to the emergence of the YouTube economy and culture. I feel this particularly strongly when seeing some of my friends who ventured into this arena have successfully solidified their fan base in a way that's very different from how attraction was established and content was made just a few years back. The appeal of an podcast is now rather multi-faceted as the focus shifted from the topic itself to the characters of the hosts and the intimacy of having people talk to you as if they are just around (introducing... radio!).
+
+However, underneath is the ancient problem that underlies any fast-growing community---the lack of norms that are agreed upon by, in the old days, the media elites who come to codify how you should vet your sources and check the facts for a content to be trustworthy, but in the current time, who? This [magazine piece](https://harpers.org/archive/2020/02/selective-hearing-specious-history-in-new-podcasts/) provides some more comprehensive observations in the same vein. The problem is more pronounced with the narrative shows, normally history themed podcasts, by its very nature. It's probably less of a problem with shows that are casual chats, sharing of life events, or rather niche topics. Nonetheless, as pointed out in the article, people do have an unfilled appetite for wanting to "learn new things". And without any norm in place this could easily spiral down to the swamp of fake knowledge for the slightest and conspiracy theory for worse.
+
+This is not to say that we need any type of regulations. I firmly stand by the principle of free exchange of ideas. However, as we start to adopt new technologies or reinvent tools into a more powerful form, a little pause and think won't hurt and is much called for.
