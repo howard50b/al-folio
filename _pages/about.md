@@ -8,7 +8,7 @@ profile:
   align: right
   image: howard-2.png
   address: >
-
+    howardchen@cs.princeton.edu
 news: true
 social: true
 ---
