@@ -22,14 +22,14 @@
         {% for author in entry.author_array %}
           {% if forloop.length == 1 %}
             {% if author.last == site.scholar.last_name %}
-              <em>{{author.first}} {{author.last}}</em>
+              {{author.first}} {{author.last}}
             {% else %}
               {{author.first}} {{author.last}}
             {% endif %}
           {% else %}
             {% unless forloop.last %}
               {% if author.last == site.scholar.last_name %}
-                <em>{{author.first}} {{author.last}}</em>,
+                {{author.first}} {{author.last}},
               {% else %}
                 {% if site.data.coauthors[author.last] %}
                   <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
@@ -39,7 +39,7 @@
               {% endif %}
             {% else %}
               {% if author.last == site.scholar.last_name %}
-                and <em>{{author.first}} {{author.last}}</em>
+                and {{author.first}} {{author.last}}
               {% else %}
                 {% if site.data.coauthors[author.last] %}
                   and <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>
