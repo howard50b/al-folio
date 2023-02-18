@@ -55,11 +55,16 @@
       <span class="periodical">
       {% if entry.type == "article" %}
         <em>{{entry.journal}}</em>
+        {% if entry.year %}
+          {{entry.year}}
+        {% endif %}
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
-      {% endif %}
-      {% if entry.year %}
-        {{entry.year}}
+        {% if entry.year %}
+          {{entry.year}}
+        {% endif %}
+      {% elsif entry.type == "preprint" %}
+        <em>arXiv preprint</em>
       {% endif %}
       </span>
     {% endif %}
