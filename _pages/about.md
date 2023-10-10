@@ -13,6 +13,8 @@ profile:
 news: true
 social: true
 ---
-I am a third year PhD student studying [Computer Science at Princeton University](https://www.cs.princeton.edu/) in the [PNLP Group](https://nlp.cs.princeton.edu/) co-advised by Professor [Danqi Chen](https://www.cs.princeton.edu/~danqic/) and Professor [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Prior to Princeton, I was an ML/NLP researcher at [ASAPP](https://www.asapp.com/platform/applied-research/) and research assistant at Cornell NYC Tech. I recieved my M.Eng. from Cornell University and B.S. from National Taiwan University.
+I am a fourth year PhD student researching ML/NLP in the [Princeton NLP Group](https://nlp.cs.princeton.edu/) and the [Princeton Language + Intelligence center](https://pli.princeton.edu/), co-advised by Professor [Danqi Chen](https://www.cs.princeton.edu/~danqic/) and Professor [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Prior to Princeton, I was an ML/NLP researcher at [ASAPP](https://www.asapp.com/platform/applied-research/) and research assistant at Cornell NYC Tech. I recieved my M.Eng. from Cornell University and B.S. from National Taiwan University.
 
-My research focuses on machine learning and natural language processing. I aim to design NLP systems that are controllable, understandable, and robust. To that end, I'm interested in areas such as interpretability, robustness, and controllable/steerable generation. I am also interested in and have worked on vision + language and language grounding research.
+My research focuses on machine learning and its application in natural language processing.
+I aim to design NLP systems (LMs, language agents, etc) that are controllable, understandable, and can operate on a long interactive horizon. Specifically, I am interested in how the different aspects of machine memory play a role under this context.
+I am also interested in and have worked on vision + language problems and language grounding research in the past.
