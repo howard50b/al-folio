@@ -19,4 +19,4 @@ My research goal is to build intelligent systems (LLMs, language agents, etc) th
 Specifically, I am interested in how the different aspects of machine memory play a role in these contexts.
 I have also worked on multi-modal grounded problems (e.g., language guided street view navigation).
 
-Please refer to my [google scholar page](https://scholar.google.com/citations?user=wsNa_W4AAAAJ&hl=en&authuser=3) for up-to-date publications.
+Please see [my google scholar page](https://scholar.google.com/citations?user=wsNa_W4AAAAJ&hl=en&authuser=3) for the up-to-date publications.
