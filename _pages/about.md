@@ -16,7 +16,7 @@ social: true
 I am a fifth year PhD student in the [Princeton NLP Group](https://nlp.cs.princeton.edu/) and the [Princeton Language + Intelligence center](https://pli.princeton.edu/), co-advised by Professor [Danqi Chen](https://www.cs.princeton.edu/~danqic/) and Professor [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/).
 
 My research goal is to build intelligent systems such as LLMs, multi-modal models, and agents that are controllable and can operate on a long interactive horizon.
-I am particularly interested in memory --- how we can design proper structure and algorithm to make it elastic (easily updatable), persistent (minimal forget).
+I am particularly interested in memory --- how we can design proper structure and algorithm to make it robust (order insensitive), elastic (easily updatable), and persistent (minimal forget).
 
 Prior to Princeton, I was an ML researcher at [ASAPP](https://www.asapp.com/) and research assistant at Cornell NYC Tech. I recieved my M.Eng. from Cornell University and B.S. from National Taiwan University.
 
